@@ -1,0 +1,10 @@
+.gradle/
+build/
+tools/gradle-8.10.2/
+tools/gradle-8.10.2-bin.zip
+out/
+*.log
+
+# personal data — never publish
+data/
+DOWNLOADED_PROGRAMM/
